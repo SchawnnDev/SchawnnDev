@@ -1,4 +1,12 @@
-![Statistics](https://github-readme-stats.vercel.app/api?username=SchawnnDev&show_icons=true&count_private=true)
+<div>
+  <a href="/" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=SchawnnDev&show_icons=true&count_private=true" />
+  </a>
+
+  <a href="/" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchawnnDev&layout=compact&count_private=true&include_all_commits=true" />
+  </a>
+</div>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SchawnnDev)
 
