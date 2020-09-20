@@ -1,9 +1,9 @@
 <div>
-  <a href="/" align="left">
+  <a href="https://github.com/SchawnnDev" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=SchawnnDev&show_icons=true&count_private=true&include_all_commits=true&layout=compact&hide=issues&hide_border=true&theme=dracula" />
   </a>
 
-  <a href="/" align="right">
+  <a href="https://github.com/SchawnnDev" align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchawnnDev&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=dracula" />
   </a>
 </div>
