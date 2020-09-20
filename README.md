@@ -1,10 +1,10 @@
 <div>
   <a href="/" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=SchawnnDev&show_icons=true&count_private=true&layout=compact&hide=issues&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SchawnnDev&show_icons=true&count_private=true&layout=compact&hide=issues&hide_border=true&theme=dracula" />
   </a>
 
   <a href="/" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchawnnDev&layout=compact&count_private=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchawnnDev&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=dracula" />
   </a>
 </div>
 
