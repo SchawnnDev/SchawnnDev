@@ -8,8 +8,6 @@
   </a>
 </div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SchawnnDev&count_private=true&include_all_commits=true&theme=dracula)
-
 <!--
 **SchawnnDev/SchawnnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
