@@ -1,12 +1,14 @@
+Hey!
+
 <div>
-  <a href="https://github.com/SchawnnDev" align="left">
+  <a href="https://github.com/SchawnnDev">
     <img src="https://github-readme-stats.vercel.app/api?username=SchawnnDev&show_icons=true&count_private=true&include_all_commits=true&layout=compact&hide=issues&hide_border=true&theme=dracula" />
   </a>
-
-  <a href="https://github.com/SchawnnDev" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchawnnDev&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=dracula&langs_count=6" />
-  </a>
 </div>
+
+  <a href="https://github.com/SchawnnDev">
+<img width="465" height="340" src="https://wakatime.com/share/@87013e1b-902e-4597-bd78-8d1900f4cb6c/47f80f95-01af-4c40-8391-b1b1fe74e984.png" />
+  </a>
 
 <!--
 **SchawnnDev/SchawnnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
