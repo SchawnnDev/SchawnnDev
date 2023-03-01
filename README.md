@@ -1,4 +1,4 @@
-Hey! <img align="right" src="https://wakatime.com/badge/user/87013e1b-902e-4597-bd78-8d1900f4cb6c.svg" alt="Total time coded since Feb 23 2023" />
+Hey! <a href="https://github.com/SchawnnDev"><img align="right" src="https://wakatime.com/badge/user/87013e1b-902e-4597-bd78-8d1900f4cb6c.svg" alt="Total time coded since Feb 23 2023" /></a>
 
 <br>
 
