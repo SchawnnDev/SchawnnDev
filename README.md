@@ -10,7 +10,7 @@ Hey! <a href="https://github.com/SchawnnDev"><img align="right" src="https://wak
 
 <div align="center">
   <a href="https://github.com/SchawnnDev">
-<img width="465" height="360" src="https://wakatime.com/share/@87013e1b-902e-4597-bd78-8d1900f4cb6c/47f80f95-01af-4c40-8391-b1b1fe74e984.png" />
+<img width="465" height="360" src="https://wakatime.com/share/@schawnndev/796dbae8-7017-4362-9081-545abbb61486.png" />
   </a>
 </div>
 
