@@ -9,8 +9,8 @@ Hey! <a href="https://github.com/SchawnnDev"><img align="right" src="https://wak
 </div>
 
 <div align="center">
-  <a href="https://github.com/SchawnnDev">
-<img width="465" height="360" src="https://wakatime.com/share/@schawnndev/796dbae8-7017-4362-9081-545abbb61486.png" />
+  <a href="https://github.com/Zapharaos">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SchawnnDev&layout=compact&hide_border=true&theme=github_dark&langs_count=20" />
   </a>
 </div>
 
