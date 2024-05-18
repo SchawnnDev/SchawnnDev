@@ -10,7 +10,7 @@ Hey! <a href="https://github.com/SchawnnDev"><img align="right" src="https://wak
 
 <div align="center">
   <a href="https://github.com/Zapharaos">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SchawnnDev&layout=compact&hide_border=true&theme=github_dark&langs_count=20" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SchawnnDev&layout=compact&hide_border=true&theme=github_dark&langs_count=12" />
   </a>
 </div>
 
