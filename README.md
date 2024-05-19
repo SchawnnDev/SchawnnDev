@@ -9,7 +9,7 @@ Hey! <a href="https://github.com/SchawnnDev"><img align="right" src="https://wak
 </div>
 
 <div align="center">
-  <a href="https://github.com/Zapharaos">
+  <a href="https://github.com/SchawnnDev">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SchawnnDev&layout=compact&hide_border=true&theme=github_dark&langs_count=12" />
   </a>
 </div>
